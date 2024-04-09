@@ -1,4 +1,4 @@
 # ApnaCollege-Demo
 This is my first Git Repository
 <br>
-Author - Gopal Tyagi
+Author - Gopal Tyagi(java)
